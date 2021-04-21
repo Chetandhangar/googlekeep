@@ -19,6 +19,7 @@ export function App() {
             <SidePannel />
             <Header />
             <div className="main-container">
+                <NewNote />
                 <DisplayNotes />
                 <EditNote />
             </div>

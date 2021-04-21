@@ -13,7 +13,7 @@ export function Header() {
             {selectedLabel === "" ? (
                 <div className="home-heading">
                     <img className="logo" src={logo} alt="Logo" />
-                    <span className="label-heading">Note Deck</span>
+                    <span className="label-heading">Google Keep</span>
                 </div>
             ) : (
                 <div className="label-heading">{selectedLabel}</div>
