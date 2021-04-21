@@ -2,7 +2,6 @@ import React from "react";
 import { MenuSvg } from "../Helpers/Svg";
 import logo from "../../images/logo.png";
 import { useLabel } from "../../ContextProviders/LabelContext"
-
 export function Header() {
     const { selectedLabel } = useLabel();
 

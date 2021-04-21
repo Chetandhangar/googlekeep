@@ -1,5 +1,5 @@
 import React from "react";
-import { useLabel } from "../../../ContextProviders/LabelContext";
+import { useLabel } from "../../../ContextProviders/LabelContext.js";
 
 export function LabelSelector({ note, changeProperty }) {
     const { labelList } = useLabel();
