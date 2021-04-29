@@ -6,7 +6,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/62f00756-d6c5-4068-bf0c-ecde81762d3a/deploy-status)](https://app.netlify.com/sites/cgooglekeep/deploys)
 
-![](/public/demo.gif)
+![](googlekeep.gif)
+
 
 ### Connect With Me
 - Twitter – [@Chetandhangar21](https://twitter.com/Chetandhangar21)
